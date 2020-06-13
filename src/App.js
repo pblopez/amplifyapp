@@ -13,6 +13,7 @@ class App extends Component {
             Updated from laptop
             Updated from desktop. Conflict wih dev branch.
           </p>
+          <p>Added using a development branch</p>
           <a
             className="App-link"
             href="https://reactjs.org"
