@@ -11,6 +11,7 @@ class App extends Component {
           <p>
             Edit <code>src/App.js</code> and save to reload Part 2.
             Updated from laptop
+            Updated from desktop. Conflict wih dev branch.
           </p>
           <a
             className="App-link"
